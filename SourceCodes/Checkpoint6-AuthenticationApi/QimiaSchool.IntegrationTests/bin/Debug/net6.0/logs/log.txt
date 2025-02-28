@@ -1,0 +1,304 @@
+2023-07-13 12:15:39.134 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 12:15:39.518 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-13 12:15:39.518 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-13 12:38:48.585 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 12:38:48.595 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 13:56:11.276 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 13:56:11.283 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 13:57:26.808 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 13:57:26.815 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 13:59:27.449 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 13:59:27.456 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 14:01:27.249 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 14:01:27.256 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 14:07:07.269 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 14:07:07.276 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 14:07:38.617 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 14:07:38.624 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-13 14:48:25.212 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 14:48:25.485 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-13 14:48:25.485 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-13 14:52:31.451 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-13 14:58:43.698 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-13 14:58:43.979 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-13 14:58:43.979 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-13 15:58:57.283 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-13 15:58:57.290 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 09:09:34.143 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 09:10:06.352 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 09:14:38.352 +03:00 [INF] Get courses request is accepted
+2023-07-14 09:30:01.778 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 09:30:02.076 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 09:30:02.077 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 09:30:31.192 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 09:30:32.551 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 09:30:32.585 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 09:30:32.585 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 09:39:24.696 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 09:39:24.987 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 09:39:24.987 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 09:39:26.122 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 09:39:26.147 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 09:39:26.147 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 10:00:08.498 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:00:08.790 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 10:00:08.790 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 10:03:31.219 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 10:03:31.270 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 10:03:31.271 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 10:19:16.362 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:19:16.371 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 10:19:16.747 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:24:25.435 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 10:24:25.443 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 10:24:25.868 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 10:37:02.934 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:37:02.943 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 10:37:03.178 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:37:03.466 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 10:37:03.466 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 10:38:06.177 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 10:38:06.216 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 10:38:06.216 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 10:38:06.453 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:38:06.755 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 10:38:06.756 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 10:38:23.938 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 10:38:23.963 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 10:38:23.963 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 10:38:24.150 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:38:24.392 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 10:38:24.392 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 10:38:48.059 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 10:38:48.086 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 10:38:48.086 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 10:38:48.278 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 10:38:48.524 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 10:38:48.525 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 10:50:31.822 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 10:50:31.832 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 10:50:32.030 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 10:50:32.264 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 10:50:32.264 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 10:52:52.183 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 10:52:52.192 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 10:52:52.377 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 11:01:37.892 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 11:01:37.900 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 11:01:38.087 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 11:01:38.329 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 11:01:38.329 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 11:08:34.242 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 11:08:34.249 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 11:08:34.436 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 11:08:34.668 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 11:08:34.668 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 11:31:31.780 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 11:31:31.964 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 11:43:28.399 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 11:43:28.590 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 11:54:47.208 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 11:54:59.589 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 12:04:47.518 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 12:04:49.983 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:10:23.241 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:14:26.784 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:14:26.790 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 15:14:27.266 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:14:28.567 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:14:28.567 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 15:14:28.617 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:14:29.205 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:14:29.269 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 15:14:29.269 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 15:14:29.888 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:14:30.590 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:14:30.606 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:14:30.606 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:14:31.185 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 15:14:31.185 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 15:14:31.204 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:14:31.637 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:14:31.650 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:14:32.100 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:14:32.113 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:14:32.113 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 15:14:32.126 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:14:32.130 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:14:32.130 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:16:33.568 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:16:33.622 +03:00 [INF] Cache's been removed for the key 'course-1'
+2023-07-14 15:16:33.622 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 15:16:34.015 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:16:34.606 +03:00 [INF] Delete enrollment request is accepted. EnrollmentId:1
+2023-07-14 15:16:34.629 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:16:35.112 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:16:35.123 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:16:35.123 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 15:16:35.155 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:16:35.580 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:16:35.607 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 15:16:35.607 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 15:16:36.105 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:16:36.509 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:16:36.518 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:16:36.518 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:16:37.053 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 15:16:37.053 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 15:16:37.080 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:16:37.413 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:16:37.429 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:16:37.809 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:16:37.812 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:16:37.812 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 15:16:37.825 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:16:37.829 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:16:37.829 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:19:50.539 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:19:50.742 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:31:13.390 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:31:13.584 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:46:58.736 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:46:58.932 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:48:05.866 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:48:05.875 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 15:48:06.269 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:48:06.889 +03:00 [INF] Delete enrollment request is accepted. EnrollmentId:1
+2023-07-14 15:48:06.923 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:48:07.408 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:48:07.408 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 15:48:07.447 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:48:07.952 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:48:08.009 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 15:48:08.010 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 15:48:08.654 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:48:09.103 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:48:09.116 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:48:09.116 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:48:09.672 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 15:48:09.673 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 15:48:09.734 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:48:10.247 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":1,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:48:10.264 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:48:10.720 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:48:10.732 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:48:10.732 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 15:48:10.745 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:48:10.751 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:48:10.751 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:54:17.108 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":1,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:54:17.310 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:54:40.517 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":2,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:54:46.206 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:54:46.214 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 15:54:46.607 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:54:47.230 +03:00 [INF] Delete enrollment request is accepted. EnrollmentId:1
+2023-07-14 15:54:47.257 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:54:47.758 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:54:47.759 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 15:54:47.796 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:54:48.254 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:54:48.304 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 15:54:48.304 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 15:54:48.820 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:54:49.289 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:54:49.304 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:54:49.304 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:54:49.787 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 15:54:49.787 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 15:54:49.807 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:54:50.083 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":2,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:54:50.333 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:54:50.344 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:54:50.344 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 15:54:50.357 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:54:50.362 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:54:50.363 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:58:37.252 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:58:37.308 +03:00 [INF] Cache's been removed for the key 'course-1'
+2023-07-14 15:58:37.308 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 15:58:37.696 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:58:38.340 +03:00 [INF] Delete enrollment request is accepted. EnrollmentId:1
+2023-07-14 15:58:38.367 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:58:38.884 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:58:38.895 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:58:38.895 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 15:58:38.935 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:58:39.384 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 15:58:39.414 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 15:58:39.414 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 15:58:39.948 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 15:58:40.386 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:58:40.399 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:58:40.399 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 15:58:40.856 +03:00 [INF] Get students request is accepted.
+2023-07-14 15:58:41.147 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 15:58:41.148 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 15:58:41.168 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 15:58:41.514 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":2,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 15:58:41.811 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 15:58:41.814 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 15:58:41.814 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 15:58:41.832 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 15:58:41.836 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 15:58:41.836 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 16:00:52.484 +03:00 [INF] Get courses request is accepted
+2023-07-14 16:04:09.913 +03:00 [INF] Get enrollments request is accepted.
+2023-07-14 16:07:54.768 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 16:07:54.775 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 16:07:55.181 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 16:07:55.773 +03:00 [INF] Delete enrollment request is accepted. EnrollmentId:1
+2023-07-14 16:07:55.802 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 16:07:56.305 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:07:56.305 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 16:07:56.343 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:07:56.810 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 16:07:56.864 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 16:07:56.864 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 16:07:57.383 +03:00 [INF] Get courses request is accepted
+2023-07-14 16:07:57.665 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 16:07:58.120 +03:00 [INF] Get enrollments request is accepted.
+2023-07-14 16:07:58.376 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:07:58.391 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 16:07:58.391 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 16:07:58.844 +03:00 [INF] Get students request is accepted.
+2023-07-14 16:07:59.155 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 16:07:59.155 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 16:07:59.174 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 16:07:59.443 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":2,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 16:07:59.689 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 16:07:59.701 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 16:07:59.701 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 16:07:59.710 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:07:59.716 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 16:07:59.716 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 16:08:54.480 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 16:08:54.535 +03:00 [INF] Cache's been removed for the key 'course-1'
+2023-07-14 16:08:54.536 +03:00 [INF] Delete course request is accepted. CourseId:1
+2023-07-14 16:08:54.958 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 16:08:55.492 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-14 16:08:55.521 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-14 16:08:55.521 +03:00 [INF] Get course by id request is accepted. CourseId:1
+2023-07-14 16:08:56.065 +03:00 [INF] Get courses request is accepted
+2023-07-14 16:08:56.358 +03:00 [INF] Cache missing for the key 'course-0'
+2023-07-14 16:08:56.358 +03:00 [INF] Update course request is accepted. Course:{"ID":0,"Title":"testUpdate","Credits":4,"Enrollments":null,"$type":"Course"}
+2023-07-14 16:08:56.381 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-14 16:08:56.681 +03:00 [INF] Delete enrollment request is accepted. EnrollmentId:1
+2023-07-14 16:08:56.731 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 16:08:57.171 +03:00 [INF] Get enrollment by id request is accepted. EnrollmentId:1
+2023-07-14 16:08:57.633 +03:00 [INF] Get enrollments request is accepted.
+2023-07-14 16:08:57.891 +03:00 [INF] Update enrollment request is accepted. Enrollment:{"ID":1,"CourseID":2,"StudentID":2,"Grade":null,"Course":null,"Student":null,"$type":"Enrollment"}
+2023-07-14 16:08:58.148 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 16:08:58.157 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 16:08:58.157 +03:00 [INF] Get students request is accepted. StudentId:1
+2023-07-14 16:08:58.186 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:08:58.628 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:08:58.638 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 16:08:58.638 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-14 16:08:59.113 +03:00 [INF] Get students request is accepted.
+2023-07-14 16:08:59.380 +03:00 [INF] Cache successful for the key 'student-1'
+2023-07-14 16:08:59.383 +03:00 [INF] Cache's been removed for the key 'student-1'
+2023-07-14 16:08:59.383 +03:00 [INF] Update student request is accepted. Student:{"ID":1,"LastName":"TestUpdate","FirstMidName":"TestUpdate","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-14 16:08:59.395 +03:00 [INF] Cache missing for the key 'student-1'
+2023-07-14 16:08:59.398 +03:00 [INF] Cache is set for the key 'student-1'
+2023-07-14 16:08:59.398 +03:00 [INF] Get students´by id request is accepted. StudentId:1

@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QimiaSchool", "QimiaSchool\QimiaSchool.csproj", "{8A09E329-1407-4C27-B46F-1F5288276C96}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QimiaSchool.DataAccess", "QimiaSchool.DataAccess\QimiaSchool.DataAccess.csproj", "{A7093DDD-5D5D-4BB1-AD0A-F2AEB74C977F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QimiaSchool.Business", "QimiaSchool.Business\QimiaSchool.Business.csproj", "{230AA8CC-14E8-4881-BAFE-D1B08DC6EE61}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "QimiaSchool.Business.UnitTests", "QimiaSchool.Business.UnitTests\QimiaSchool.Business.UnitTests.csproj", "{3ACBCD8F-0FA6-4C9C-8E2D-B9D70800595D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QimiaSchool.IntegrationTests", "QimiaSchool.IntegrationTests\QimiaSchool.IntegrationTests.csproj", "{59613957-D529-4B90-8AC8-414D3A880690}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A09E329-1407-4C27-B46F-1F5288276C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A09E329-1407-4C27-B46F-1F5288276C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A09E329-1407-4C27-B46F-1F5288276C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A09E329-1407-4C27-B46F-1F5288276C96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7093DDD-5D5D-4BB1-AD0A-F2AEB74C977F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7093DDD-5D5D-4BB1-AD0A-F2AEB74C977F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7093DDD-5D5D-4BB1-AD0A-F2AEB74C977F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7093DDD-5D5D-4BB1-AD0A-F2AEB74C977F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{230AA8CC-14E8-4881-BAFE-D1B08DC6EE61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{230AA8CC-14E8-4881-BAFE-D1B08DC6EE61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{230AA8CC-14E8-4881-BAFE-D1B08DC6EE61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{230AA8CC-14E8-4881-BAFE-D1B08DC6EE61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3ACBCD8F-0FA6-4C9C-8E2D-B9D70800595D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3ACBCD8F-0FA6-4C9C-8E2D-B9D70800595D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3ACBCD8F-0FA6-4C9C-8E2D-B9D70800595D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3ACBCD8F-0FA6-4C9C-8E2D-B9D70800595D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59613957-D529-4B90-8AC8-414D3A880690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59613957-D529-4B90-8AC8-414D3A880690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59613957-D529-4B90-8AC8-414D3A880690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59613957-D529-4B90-8AC8-414D3A880690}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF2169C2-6229-451C-9744-A9E805A5BA9D}
+	EndGlobalSection
+EndGlobal

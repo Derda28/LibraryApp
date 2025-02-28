@@ -1,0 +1,36 @@
+2023-07-12 13:59:58.039 +03:00 [INF] Create course request is accepted. Course:{"ID":0,"Title":"bla","Credits":2,"Enrollments":null,"$type":"Course"}
+2023-07-13 10:12:50.675 +03:00 [INF] Get courses request is accepted
+2023-07-13 10:12:58.464 +03:00 [INF] Cache missing for the key 'course-2'
+2023-07-13 10:12:58.717 +03:00 [INF] Cache is set for the key 'course-2'
+2023-07-13 10:12:58.717 +03:00 [INF] Get course by id request is accepted. CourseId:2
+2023-07-13 10:13:20.668 +03:00 [INF] Create student request is accepted. Student:{"ID":0,"LastName":"student","FirstMidName":"yenni","EnrollmentDate":"2023-07-13T10:13:20.6682918+03:00","Enrollments":null,"$type":"Student"}
+2023-07-13 10:26:28.196 +03:00 [INF] Get students request is accepted.
+2023-07-13 10:28:25.188 +03:00 [INF] Get students request is accepted.
+2023-07-13 10:30:45.320 +03:00 [INF] Cache missing for the key 'course-1'
+2023-07-13 10:31:04.254 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-13 10:33:30.470 +03:00 [INF] Cache is set for the key 'course-1'
+2023-07-13 10:33:44.392 +03:00 [INF] Get students´by id request is accepted. StudentId:1
+2023-07-13 10:34:57.437 +03:00 [INF] Cache successful for the key 'course-1'
+2023-07-13 10:36:50.954 +03:00 [INF] Cache missing for the key 'student-11'
+2023-07-13 10:36:52.112 +03:00 [INF] Cache is set for the key 'student-11'
+2023-07-13 10:36:52.112 +03:00 [INF] Get students´by id request is accepted. StudentId:11
+2023-07-13 10:37:01.968 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:37:36.417 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:37:36.430 +03:00 [INF] Cache's been removed for the key 'student-11'
+2023-07-13 10:37:36.430 +03:00 [INF] Update student request is accepted. Student:{"ID":11,"LastName":"dfdf","FirstMidName":"123","EnrollmentDate":"0001-01-01T00:00:00.0000000","Enrollments":null,"$type":"Student"}
+2023-07-13 10:37:56.819 +03:00 [INF] Cache missing for the key 'student-11'
+2023-07-13 10:37:56.832 +03:00 [INF] Cache is set for the key 'student-11'
+2023-07-13 10:37:56.832 +03:00 [INF] Get students´by id request is accepted. StudentId:11
+2023-07-13 10:38:03.269 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:04.982 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:06.003 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:06.896 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:13.803 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:14.561 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:15.043 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:15.549 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:15.990 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:45.850 +03:00 [INF] Cache successful for the key 'student-11'
+2023-07-13 10:38:45.855 +03:00 [INF] Cache's been removed for the key 'student-11'
+2023-07-13 10:38:45.856 +03:00 [INF] Get students request is accepted. StudentId:11
+2023-07-13 10:38:50.035 +03:00 [INF] Cache missing for the key 'student-11'
